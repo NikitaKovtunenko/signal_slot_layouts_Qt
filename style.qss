@@ -1,0 +1,4 @@
+QPushButton{background-color:green;
+color:yellow}
+QLineEdit{color:red}
+QComboBox{color:blue}
